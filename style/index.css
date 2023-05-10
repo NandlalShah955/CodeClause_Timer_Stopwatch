@@ -62,7 +62,7 @@ button{
     width:100px;
     box-shadow: 5px 5px 1px rgba(56, 51, 51, 0.5);
     transition: all 0.5s;
-/* }
+}
 button:hover{
     cursor:pointer;
 }
@@ -92,6 +92,6 @@ color:white;
   font-size: 40px;
   border-radius: 20px;
     background-color: teal;
-     */
+    
 
 }
